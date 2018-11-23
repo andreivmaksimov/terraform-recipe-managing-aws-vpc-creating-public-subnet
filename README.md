@@ -10,8 +10,8 @@ Execute the following commands:
 
 ```
 terraform init
-terraform plan -var-file=defaults.tfvar
-terraform apply -var-file=defaults.tfvar
+terraform plan
+terraform apply
 ```
 
 &copy; [Andrei Maksimov](https://www.linkedin.com/in/avmaksimov/) / [Dev-Ops-Notes.com](https://dev-ops-notes.com)
