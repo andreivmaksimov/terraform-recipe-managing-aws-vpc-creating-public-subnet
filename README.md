@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://dev-ops-notes.com/terraform/terraform-recipe-managing-aws-vpc-creating-public-subnet/" target="_blank"><img src="https://i0.wp.com/dev-ops-notes.com/wp-content/uploads/sites/2/2018/11/Terraform-Recipe-Managing-AWS-VPC-Creating-Public-Subnet.png"></a>
+  <a href="https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-public-subnet/" target="_blank"><img src="https://raw.githubusercontent.com/hands-on-cloud/hands-on.cloud/master/src/pages/Terraform%20recipe%20-%20Managing%20AWS%20VPC%20-%20Creating%20Public%20Subnet/Terraform-Recipe-Managing-AWS-VPC-Creating-Public-Subnet.png"></a>
 </p>
 
-This is full source code to the article [Terraform recipe - Managing AWS VPC - Creating Public Subnet](https://dev-ops-notes.com/terraform/terraform-recipe-managing-aws-vpc-creating-public-subnet/)
+This is full source code to the article [Terraform recipe - Managing AWS VPC - Creating Public Subnet](https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-public-subnet/)
 
 ## Launch instructions
 
@@ -14,4 +14,4 @@ terraform plan
 terraform apply
 ```
 
-&copy; [Andrei Maksimov](https://www.linkedin.com/in/avmaksimov/) / [Dev-Ops-Notes.com](https://dev-ops-notes.com)
+&copy; [Andrei Maksimov](https://www.linkedin.com/in/avmaksimov/) / [Hands-On.Cloud](https://hands-on.cloud)
