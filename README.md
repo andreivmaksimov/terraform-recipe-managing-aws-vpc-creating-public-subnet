@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-public-subnet/" target="_blank"><img src="https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-public-subnet/Terraform-Recipe-Managing-AWS-VPC-Creating-Public-Subnet.webp"></a>
+  <a href="https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-public-subnet/" target="_blank"><img src="https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-public-subnet/Terraform-Recipe-Managing-AWS-VPC-Creating-Public-Subnet.png"></a>
 </p>
 
 This is full source code to the article [Terraform recipe - Managing AWS VPC - Creating Public Subnet](https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-public-subnet/)
